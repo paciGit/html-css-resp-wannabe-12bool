@@ -1,0 +1,16 @@
+/* Regole Generali */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container.grey{
+  background-color: #f9f9f9;
+}
+
+[class*="col-"] {
+  border: 1px black solid;
+  height: 100%;
+}
